@@ -18,4 +18,4 @@ Run the code. As you can see the Jonh instance of the Employee class now accepts
 
 <p>Fig 3. Running the example</p>
 <tt>$ py SampleOverriding.py</tt>
-<img src="picture_library/overwrittingpy/fig1.png" />
+<img src="overwrittingpy/fig1.png" />
