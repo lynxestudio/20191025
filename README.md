@@ -12,10 +12,9 @@ In the main program add two new lines with the following two phrases:
 and concatenate the department attribute of the object John, with a period and
 "John's email is "
 and concatenate the email attribute of the object John with a period.
-<p>Fig 2. Main program</p>
-<img src="overwrittingpy/fig2.png" />
+
 Run the code. As you can see the Jonh instance of the Employee class now accepts three parameters, because the Person constructor has been overriding. In addition, the talk method remains the same inherited from Person.
 
-<p>Fig 3. Running the example</p>
+<p>Fig 2. Running the example</p>
 <tt>$ py SampleOverriding.py</tt>
 <img src="overwrittingpy/fig1.png" />
